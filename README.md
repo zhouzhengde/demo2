@@ -36,7 +36,12 @@ $ git push -u origin master
 ```
 
 ## 五、分支管理与创建分支
-- 1
+- A. 创建分支与切换分支
+```shell
+$ git branch [分支名称]  
+$ git checkout [分支名称]   # 切换分支
+$ git switch -c [分支名称】 # 创建并切换分支
+```
 - 2
 - 4
 - 7
