@@ -21,8 +21,12 @@ $ git push -u origin [分支]  # 提交到远程仓库中
 
 ## 三、多人协同开发，消除提交冲突
 ```shell
-# TODO 
-
+$ git pull origin [分支]   # 提交之前，应先执行更新
+$ git status      # 查看哪些文件有冲突
+$ 【手工合并冲突点】
+$ git add [冲突的文件]
+$ git commit [冲突的文件] -m 'fix conflict: 备注'
+$ git push -u origin master
 ```
 
 # 四、如何进行合并
@@ -32,4 +36,5 @@ $ git push -u origin [分支]  # 提交到远程仓库中
 ```
 
 ## 五、分支管理与创建分支
-
+- 4
+- 7
