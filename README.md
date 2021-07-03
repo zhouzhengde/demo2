@@ -14,6 +14,9 @@ $ git clone https://github.com/zhouzhengde/demo2.git    # 从远程仓库中拉�
 
 ## 二、将本地变更指定提交到本地仓库中与远程仓库中
 ```shell
+$ 
 $ git commit [文件] -m '提交的备注'  # 提交到本地仓库中
 $ git push -u origin [分支]  # 提交到远程仓库中
 ```
+
+# 三、如何进行合并
