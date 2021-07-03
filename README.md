@@ -17,3 +17,5 @@ $ git clone https://github.com/zhouzhengde/demo2.git    # 从远程仓库中拉�
 $ git commit [文件] -m '提交的备注'  # 提交到本地仓库中
 $ git push -u origin [分支]  # 提交到远程仓库中
 ```
+
+## 三、多人协同开发，消除提交冲突
