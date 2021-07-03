@@ -36,5 +36,7 @@ $ git push -u origin master
 ```
 
 ## 五、分支管理与创建分支
+- 1
+- 2
 - 4
 - 7
