@@ -40,7 +40,7 @@ $ git push -u origin master
 ```shell
 $ git branch [分支名称]  
 $ git checkout [分支名称]   # 切换分支
-$ git switch -c [分支名称】 # 创建并切换分支
+$ git switch -c [分支名称】 # 创建并切换分支，注意版本兼容问题
 ```
 - 2
 - 4
