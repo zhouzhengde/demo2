@@ -29,19 +29,12 @@ $ git commit [冲突的文件] -m 'fix conflict: 备注'
 $ git push -u origin master
 ```
 
-# 四、如何进行合并
-```shell
-# TODO
-
-```
-
-## 五、分支管理与创建分支
-- A. 创建分支与切换分支
+## 四、分支管理
 ```shell
 $ git branch [分支名称]  
 $ git checkout [分支名称]   # 切换分支
 $ git switch -c [分支名称】 # 创建并切换分支，注意版本兼容问题
+$ git branch -d [分支名称]   # 删除分支
 ```
-- 2
-- 4
-- 7
+
+## 五、Rebase的使用
